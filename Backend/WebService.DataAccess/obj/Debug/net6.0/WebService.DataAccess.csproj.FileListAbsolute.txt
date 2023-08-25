@@ -1,0 +1,51 @@
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.csproj.AssemblyReference.cache
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.AssemblyInfoInputs.cache
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.AssemblyInfo.cs
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.csproj.CoreCompileInputs.cache
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\bin\Debug\net6.0\WebService.DataAccess.deps.json
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\bin\Debug\net6.0\WebService.DataAccess.dll
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\bin\Debug\net6.0\WebService.DataAccess.pdb
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\bin\Debug\net6.0\WebService.Model.dll
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\bin\Debug\net6.0\WebService.Model.pdb
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.csproj.CopyComplete
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.dll
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\refint\WebService.DataAccess.dll
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.pdb
+D:\Ahlatçı\Yeni klasör\WebService.DataAccess\obj\Debug\net6.0\ref\WebService.DataAccess.dll
+D:\Ahlatçı\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.DataAccess.deps.json
+D:\Ahlatçı\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.DataAccess.dll
+D:\Ahlatçı\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.DataAccess.pdb
+D:\Ahlatçı\Backend\WebService.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+D:\Ahlatçı\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.Model.dll
+D:\Ahlatçı\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.Model.pdb
+D:\Ahlatçı\Backend\WebService.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.csproj.AssemblyReference.cache
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.AssemblyInfoInputs.cache
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.AssemblyInfo.cs
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.csproj.CoreCompileInputs.cache
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.csproj.CopyComplete
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.dll
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\refint\WebService.DataAccess.dll
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.pdb
+D:\Ahlatçı\Backend\WebService.DataAccess\obj\Debug\net6.0\ref\WebService.DataAccess.dll
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.DataAccess.deps.json
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.DataAccess.dll
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.DataAccess.pdb
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.Model.dll
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\bin\Debug\net6.0\WebService.Model.pdb
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.csproj.AssemblyReference.cache
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.AssemblyInfoInputs.cache
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.AssemblyInfo.cs
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.csproj.CoreCompileInputs.cache
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.csproj.CopyComplete
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.dll
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\refint\WebService.DataAccess.dll
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\WebService.DataAccess.pdb
+D:\Ahlatçı\TAZE PROJE KLASÖRÜ\Backend\WebService.DataAccess\obj\Debug\net6.0\ref\WebService.DataAccess.dll
